@@ -1,5 +1,4 @@
-#Jekyll configuration
 name: SnapPancake
 descritption: Breakfast is the most important meal of the day
-url: "https://snappancake.github.io"
+url: 'https://snappancake.github.io'
 theme: jekyll-theme-slate
